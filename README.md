@@ -1,4 +1,4 @@
-![](https://github.com/rnumata/rnumata/blob/master/git.png)
+![](https://github.com/rnumata/rnumata/blob/master/header.png)
 </br>
 ## Hello, Folks !! 😄
 _My name is Regis and i'm a IT student at [Universidade Positivo](https://www.up.edu.br/institucional)_</br>
