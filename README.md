@@ -6,7 +6,8 @@ _In 2019 i started a long professional jorney...to become a Dev !_</br>
 _...and day by day i've been striving myself to reach this aim_</br></br>
 
 ### Programming Languages 
-
+_(learned about)_</br>
+![](https://github.com/rnumata/rnumata/blob/master/languages.png)
 
 
 <!--
