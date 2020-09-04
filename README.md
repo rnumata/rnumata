@@ -1,12 +1,17 @@
 ![](https://github.com/rnumata/rnumata/blob/master/git.png)
+</br>
+## Hello, Folks !! 😄
+_My name is Regis and i'm a IT student at [Universidade Positivo](www.up.edu.br)...</br>
+In 2019 i started a long professional jorney...to become a Dev !</br>
+...and day by day i've been striving myself to reach this aim_
 
-### Hi there 👋
+
 
 <!--
 **rnumata/rnumata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
