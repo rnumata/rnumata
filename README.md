@@ -7,7 +7,7 @@ _...and day by day i've been striving myself to reach this aim_</br></br>
 
 ### Programming Languages 
 _(learned about)_</br>
-<img src="PL.png">
+![](https://github.com/rnumata/rnumata/blob/master/PL.png)
 
 
 <!--
