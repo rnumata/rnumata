@@ -1,7 +1,7 @@
 ![](https://github.com/rnumata/rnumata/blob/master/git.png)
 </br>
 ## Hello, Folks !! 😄
-_My name is Regis and i'm a IT student at [Universidade Positivo](www.up.edu.br)_</br>
+_My name is Regis and i'm a IT student at [Universidade Positivo](https://www.up.edu.br)_</br>
 _In 2019 i started a long professional jorney...to become a Dev !_</br>
 _...and day by day i've been striving myself to reach this aim_ 
 
