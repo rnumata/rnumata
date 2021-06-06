@@ -12,6 +12,8 @@ _(learned about)_</br>
 ### Tools
 ![](https://github.com/rnumata/rnumata/blob/master/tools.png)
 
+### Technologies
+![](https://github.com/rnumata/rnumata/blob/master/technologies.png)
 
 <!--
 **rnumata/rnumata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
