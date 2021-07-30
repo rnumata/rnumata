@@ -10,9 +10,11 @@ _(learned about)_</br>
 ![](https://github.com/rnumata/rnumata/blob/master/PL.png)
 
 ### Tools
-![](https://github.com/rnumata/rnumata/blob/master/tools.png)
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" heigth="30" width="40" src="https://github.com/rnumata/rnumata/blob/master/vscode-original.svg">
+  <img align="center" heigth="30" width="40" src="https://github.com/rnumata/rnumata/blob/master/visualstudio-plain.svg">
+  <img align="center" heigth="30" width="40" src="https://github.com/rnumata/rnumata/blob/master/eclipse_94656.svg">
+  <img align="center" heigth="30" width="40" src="https://github.com/rnumata/rnumata/blob/master/phpstorm-original.svg">
 </div>
 
 ### Technologies
