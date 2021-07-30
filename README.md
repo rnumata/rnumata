@@ -11,6 +11,9 @@ _(learned about)_</br>
 
 ### Tools
 ![](https://github.com/rnumata/rnumata/blob/master/tools.png)
+<div style="display: inline_block"><br>
+  <img align="center" heigth="30" width="40" src="https://github.com/rnumata/rnumata/blob/master/vscode-original.svg">
+</div>
 
 ### Technologies
 ![](https://github.com/rnumata/rnumata/blob/master/technologies.png)
